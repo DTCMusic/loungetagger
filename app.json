@@ -5,15 +5,15 @@
   "env": {
     "TOKEN": {
       "description": "bot token girin.",
-      "value": ""
+      "value": "5955528182:AAHjaIOFQJmBQ8G9z0nfiYjAJHSeON0elWU"
     },
     "APP_ID": {
       "description": "@otomytelegrambot dan api hash api id alınız.",
-      "value": ""
+      "value": "12878302"
     },
     "API_HASH": {
       "description": "@otomytelegrambot dan api hash api id alınız.",
-      "value": ""
+      "value": "1ce756e879790d465304f48c36294883"
     }
   },
   "buildpacks": [{
